@@ -1,0 +1,12 @@
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\bin\Debug\net5.0\SortedBag.deps.json
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\bin\Debug\net5.0\SortedBag.dll
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\bin\Debug\net5.0\ref\SortedBag.dll
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\bin\Debug\net5.0\SortedBag.pdb
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\SortedBag.csproj.AssemblyReference.cache
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\SortedBag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\SortedBag.AssemblyInfoInputs.cache
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\SortedBag.AssemblyInfo.cs
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\SortedBag.csproj.CoreCompileInputs.cache
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\SortedBag.dll
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\ref\SortedBag.dll
+C:\Users\adamo\RiderProjects\SortedBag\SortedBag\obj\Debug\net5.0\SortedBag.pdb
